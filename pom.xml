@@ -30,6 +30,11 @@
 			<artifactId>spring-boot-starter-tomcat</artifactId>
 			<scope>provided</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
+			<scope>true</scope>
+		</dependency>
 		<!-- JSTL para JSP -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
